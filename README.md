@@ -1,6 +1,6 @@
 # Introduction
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Important :** La documentation est en cours de rédaction, nous vous remercions pour votre patience. En cas de question, veuillez nous contacter sur Discord !
 {% endhint %}
 
