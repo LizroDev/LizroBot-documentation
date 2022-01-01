@@ -17,7 +17,7 @@ Pour ajouter un bot sur votre serveur Discord, vous devez obligatoirement dispos
 La première étape consiste à se rendre sur [le lien d'invitation du bot](https://lizro.me/bot) : https://lizro.me/bot \
 Vous arriverez ensuite à la page de connexion de Discord (il se peut que vous soyez déjà connecté, dans ce cas-là rendez-vous directement à l'étape 2) :&#x20;
 
-![Page de connexion de Discord](<../.gitbook/assets/Capture d’écran 2021-12-28 à 19.48.46.png>)
+![Page de connexion de Discord](<../.gitbook/assets/Capture d’écran 2021-12-28 à 19.48.46.png>)
 
 #### Étape 2 - Selection du serveur :&#x20;
 
@@ -25,7 +25,7 @@ Vous devez maintenant sélectionner le serveur dans lequel vous souhaitez ajoute
 
 Cliquez ensuite sur `Suivant` :&#x20;
 
-![Page de sélection du serveur](<../.gitbook/assets/Capture d’écran 2021-12-28 à 19.51.47.png>)
+![Page de sélection du serveur](<../.gitbook/assets/Capture d’écran 2021-12-28 à 19.51.47.png>)
 
 #### Étape 3  - Gestion des permissions :&#x20;
 
@@ -41,13 +41,13 @@ Si vous décochez la permission Administrateur, nous vous déconseillons forteme
 
 C'est donc presque terminé, il vous suffit de descendre et de cliquer sur `Autoriser`.
 
-![Page des permissions du bot](<../.gitbook/assets/Capture d’écran 2021-12-28 à 19.52.04.png>)
+![Page des permissions du bot](<../.gitbook/assets/Capture d’écran 2021-12-28 à 19.52.04.png>)
 
 #### Étape 4 - Profitez du bot :&#x20;
 
 Le bot est désormais sur votre serveur ! Vous devriez être redirigé sur cette page :&#x20;
 
-![Page d'autorisation](<../.gitbook/assets/Capture d’écran 2021-12-28 à 19.52.15.png>)
+![Page d'autorisation](<../.gitbook/assets/Capture d’écran 2021-12-28 à 19.52.15.png>)
 
 Vous pouvez vérifier que le bot est bien présent en entrant par exemple la commande `/help` ! Bonne utilisation !
 
