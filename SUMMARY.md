@@ -5,6 +5,7 @@
 ## Guides
 
 * [Installer le bot](guides/installer-le-bot.md)
+* [Version premium](guides/premium.md)
 * [Voter pour le bot](guides/voter-pour-le-bot.md)
 
 ## mises a jour
