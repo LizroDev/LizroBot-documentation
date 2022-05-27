@@ -58,7 +58,7 @@ Cet abonnement est sans engagement, vous pouvez donc résilier à tout moment.&#
 
 ### Payements sécurisés :&#x20;
 
-Que cela soit pour nos payements ou nos abonnements, nous utilons le service [Stripe](https://stripe.com) qui gère de manière sécurisée toute la phase du payement vous permettant de payer de plusieurs manières possibles. \
+Que cela soit pour nos payements ou nos abonnements, nous utilons le service [Stripe](https://stripe.com/) qui gère de manière sécurisée toute la phase du payement vous permettant de payer de plusieurs manières possibles. \
 
 
 Vos coordonnées bancaires de passent donc pas par nous et sont entièrement chiffrées par Stripe lors des transactions.

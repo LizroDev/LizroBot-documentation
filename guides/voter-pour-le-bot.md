@@ -4,7 +4,7 @@ description: Vous apprendrez dans cette page comment et pourquoi voter pour le L
 
 # Voter pour le bot
 
-Premièrement, qu'est-ce que [top.gg](https://top.gg) ? Il s'agit d'un des plus gros sites de référencement de bots et serveurs Discord. Il fonctionne principalement par le biais de votes qui propulsent le bot vers le haut de la liste en fonction du bot.&#x20;
+Premièrement, qu'est-ce que [top.gg](https://top.gg/) ? Il s'agit d'un des plus gros sites de référencement de bots et serveurs Discord. Il fonctionne principalement par le biais de votes qui propulsent le bot vers le haut de la liste en fonction du bot.&#x20;
 
 ### Pourquoi voter ?
 
