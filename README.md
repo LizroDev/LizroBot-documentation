@@ -14,6 +14,8 @@ Une faute d'orthographe ? De grammaire ? De frappe ? Une meilleure syntaxe à pr
 
 Nous utilisons [GitHub](https://github.com/LizroDev/LizroBot-documentation) afin de rédiger la documentation de manière communautaire, vous trouverez le lien de [notre repository ici](https://github.com/LizroDev/LizroBot-documentation).
 
-Une fois votre proposition envoyée, notre équipe se chargera de la vérifier et de la traiter dans les plus brefs délais afin qu'elle soit rendue publique.
+Une fois votre proposition envoyée, notre équipe se chargera de la vérifier et de la traiter dans les plus brefs délais afin qu'elle soit rendue publique.\
+\
+Vous pouvez également nous le/les signaler en ouvrant un ticket sur [Discord ](http://lizro.me/discord)!
 
 Nous remercions par avance toutes les personnes prenant le temps de contribuer.

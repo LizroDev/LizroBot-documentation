@@ -22,13 +22,13 @@ Ces tokens sont donc très bénéfiques pour vous et peuvent être très utiles.
 
 #### Pour le projet :
 
-Comme énoncé dans l'introduction, plus il y a de votes, plus le bot est haut dans la liste. Cela permet donc de donner une très bonne visibilité au projet ainsi que de le faire connaitre.
+Comme énoncé dans l'introduction, plus il y a de votes, plus le bot est haut dans la liste. Cela permet donc de donner une très bonne visibilité au projet, et par la même occasion, le faire connaitre !
 
 
 
 ### Comment voter ?
 
-Il vous suffit de vous rendre [à cettre adresse](https://top.gg/bot/546717384992358415/vote) et suivre les instructions du site. Il se peut que vous ayez à vous connecter avec votre compte Discord.
+Il vous suffit de vous rendre [à cette adresse](https://top.gg/bot/546717384992358415/vote) et suivre les instructions du site. Il se peut que vous ayez à vous connecter avec votre compte Discord.
 
 Vous pouvez voter toutes les 12 heures, donc n'oubliez pas !
 

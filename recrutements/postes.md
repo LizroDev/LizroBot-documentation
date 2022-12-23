@@ -20,7 +20,7 @@ LizroBot est un projet associatif qui fonctionne uniquement grâce à des béné
 
 ### Liste détaillée des postes :&#x20;
 
-Avant de candidater, il est important de savoir en quoi consiste le poste pour lequel vous postulez. Vous pourrez donc lire, dans cette partie, les différentes missions qui pourraient vous être confiées.
+Avant de candidater, il est important de savoir en quoi consiste le poste pour lequel vous postulez. Vous pourrez donc retrouver dans cette partie, les différentes missions qui pourraient vous être confiées.
 
 
 
@@ -44,13 +44,13 @@ Ils traitent les demandes via Discord, via mail ou via Twitter.
 
 #### Responsable de support :&#x20;
 
-Comme l'intitulé du poste l'indique, il est responsable de toute l'équipe de support. Il recrute, gère l'effectif et attribue les tâches pour que toute son équipe fonctionne de manière autonomme.&#x20;
+Comme l'intitulé du poste l'indique, il est responsable de toute l'équipe de support. Il recrute, gère l'effectif et attribue les tâches pour que toute son équipe fonctionne de manière autonome.&#x20;
 
 
 
 #### Agent de communication :&#x20;
 
-Ce sont les portes-paroles du projet. Ils communiquent et font connaitre le bot au plus de monde possible. Ils utilisent Twitter, Discord ou d'autres réseaux sociaux pour trouver des utilisateurs pouvant être intéressés par le bot. Leur travail est primordial pour la vie du projet.&#x20;
+Ce sont les porte-paroles du projet. Ils communiquent et font connaitre le bot au plus de monde possible. Ils utilisent Twitter, Discord ou d'autres réseaux sociaux pour trouver des utilisateurs pouvant être intéressés par le bot. Leur travail est primordial pour la vie du projet.&#x20;
 
 Ils suggèrent également des partenariats et sont la "vitrine" du projet.
 
@@ -76,9 +76,9 @@ Il co-développe le bot en lui-même afin de sortir des nouveautés régulièrem
 
 ### Comment postuler ?
 
-Un poste vous tente ? N'attendez pas ! Et investissez un peu de votre temps dans notre projet.&#x20;
+Un poste vous tente ? N'attendez pas ! Investissez un peu de votre temps dans notre projet. :heart:
 
-Contactez nous via [Discord](https://lizro.me/discord) ou par mail **recrutements@lizrobot.com**. Nous vous contacterons dans les plus brefs délais.
+Contactez nous via [Discord](https://lizro.me/discord) ou par mail **recrutements@lizrobot.com**. Nous reviendrons vers vous dans les plus brefs délais.
 
 
 

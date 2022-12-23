@@ -24,19 +24,21 @@ La première étape consiste donc à se connecter sur le [Dashboard](https://liz
 
 Vous devez désormais configurer les permissions de vos commandes directement depuis Discord.
 
-Pour cela, rendez-vous dans les paramètres de votre serveur puis dans Intégrations :
+Pour cela, rendez-vous dans les **paramètres** de votre serveur puis dans **Intégrations** :
 
 ![Onglet intégrations dans les paramètres du serveur](<.gitbook/assets/Capture d’écran 2022-05-27 à 22.21.14.png>)
 
-Cherchez LizroBot et cliquez sur Gérer à droite :
+Cherchez **LizroBot** et cliquez sur **Gérer** à droite :
 
 ![Onglet LizroBot](<.gitbook/assets/Capture d’écran 2022-05-27 à 22.22.58.png>)
 
 Maintenant, vous pouvez configurer les salons dans lesquels les utilisateurs peuvent exécuter des commandes.
 
-En descendant, vous trouverez toutes les commandes, en cliquant sur chacune, vous pouvez autoriser ou interdire à des membres de les utiliser.&#x20;
+En descendant, vous trouverez toutes les commandes.\
+En cliquant sur celle que vous souhaitez modifier, vous pouvez autoriser ou interdire à certains membres de les utiliser.&#x20;
 
-Prenons par exemple la commande `forceskip` qui permet de passer la musique sans vote, si vous souhaitez l'autoriser à une personne, cliquez dessus :&#x20;
+Prenons par exemple la commande `/forceskip` qui permet de passer la musique sans vote : \
+Si vous souhaitez l'autoriser à une personne, cliquez dessus :&#x20;
 
 ![Commande forceskip](<.gitbook/assets/Capture d’écran 2022-05-27 à 22.23.13.png>)
 
